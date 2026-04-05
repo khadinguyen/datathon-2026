@@ -1,1 +1,4 @@
-Datathon
+2026 Spring Datathon
+Team: Samantha Nguyen, Isabel Wang, Kha-Di Nguyen, Chan-Tin Nguyen
+
+For our project we decided to take on both the StrataScratch and Omni challenge. With the StrataScratch challenge, we were given a dataset of tweets that used an emoji (with the emoji omitted), and the emojis that correspond to each tweet. Using a model that can predict emoji's based on text, it can determine the emotions behind each post. Business can then leverage this data to better understand customer response. For food and retail brands, the model can provide real-time insights into customer emotions and cravings which can then help them tailor marketing campaigns. Social media platforms may also benefit from this model as it can automatically tag emotional tone in tweets to improve content algorithms and recommendations.
